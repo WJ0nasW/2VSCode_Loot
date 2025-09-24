@@ -58,7 +58,7 @@ const products = [
   },
   {
     title: "Oral-B Pro Sensitive Clean – ORIGINAL Aufsteckbürsten für Elektrische Zahnbürste – Sanfte Zahnreinigung, Ersatzbürsten mit X-Borsten, Zahnbürstenaufsatz, Briefkastenfähige Verpackung – Weiß, 10 Stück",
-    price: 26.81,
+    price: 29.99,
     listPrice: 32.99,
     image: "https://m.media-amazon.com/images/I/61CURzktO3L._AC_SL1000_.jpg",
     url: "https://www.amazon.de/Oral-B-Aufsteckb%C3%BCrsten-Zahnreinigung-Zahnb%C3%BCrstenaufsatz-briefkastenf%C3%A4hige/dp/B0BWNTF2YF?tag=lootmuseum-21"
@@ -70,6 +70,15 @@ const products = [
     image: "https://m.media-amazon.com/images/I/81thIKcqGqL._AC_SY450_.jpg",
     url: "https://www.amazon.de/Oral-B-Elektrische-Zahnb%C3%BCrste-Toothbrush-Aufsteckb%C3%BCrsten/dp/B0D5D3WBN5?tag=lootmuseum-21"
   },
+
+  {
+    title: "Jackery 2000 v2 Tragbare Powerstation mit 200W",
+    price: 1099.00,
+    listPrice: 1599.00,
+    image: "https://m.media-amazon.com/images/I/71AONA00OxL._AC_SL1500_.jpg",
+    url: "https://www.amazon.de/Jackery-Powerstation-Solarpanel-Solargenerator-Schnellladung/dp/B0DSK9YGY7?ref=dlx_deals_dg_dcl_B0DSK9YGY7_dt_sl14_89&pf_rd_r=T06RPJ9Z94BYBR8B7W7K&pf_rd_p=bbab8822-c5c8-4522-a9e1-bb517daf6789&th=1?tag=lootmuseum-21"
+  },
+
   {
     title: "Echo Show 10 (3. Generation, 2020) | Hochauflösendes Smart Display mit Bewegungsfunktion und Alexa",
     price: 169.99,
