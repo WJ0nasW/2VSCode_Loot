@@ -2,7 +2,7 @@
 const products = [
   {
     title: "Philips Series 5400 Kaffeevollautomat – LatteGo Milchsystem",
-    price: 529.95,
+    price: 509.95,
     listPrice: 729.99,
     image: "https://m.media-amazon.com/images/I/41Icg1TrLvL._AC_.jpg",
     url: "https://www.amazon.de/PHILIPS-Espressomaschine-Serie-5400-Kaffeeeinstellungen/dp/B08CBJCQ39?tag=lootmuseum-21"
@@ -22,15 +22,15 @@ const products = [
     url: "https://www.amazon.de/Xbox-Wireless-Controller-Carbon-Black/dp/B0F2NC69KK?tag=lootmuseum-21"
   },
   {
-    title: "Snocks Boxershorts Herren Bio Baumwolle (6er Pack)",
-    price: 35.24,
-    listPrice: 48.99,
-    image: "https://m.media-amazon.com/images/I/81etJIf8QUL._AC_SX569_.jpg",
-    url: "https://www.amazon.de/Snocks-Boxershorts-Unterw%C3%A4sche-Unterwasche-Herrenunterw%C3%A4sche/dp/B0779643GC?tag=lootmuseum-21"
+    title: "LEGO Harry Potter Bootshaus 76426",
+    price: 26.49,
+    listPrice: 37.99,
+    image: "https://m.media-amazon.com/images/I/81RHzRC3q+L._AC_SY450_.jpg",
+    url: "https://www.amazon.de/LEGO-Spielzeug-Modell-beinhaltet-Mini-Figuren-76426/dp/B0CFVYNPY6/ref=pd_rhf_ee_s_pd_sbs_rvi_d_sccl_1_2/258-4119657-6810819?pd_rd_w=7tOig&content-id=amzn1.sym.d95c9896-f01c-4d4b-b9f5-65a13021c181&pf_rd_p=d95c9896-f01c-4d4b-b9f5-65a13021c181&pf_rd_r=3JKW0Y36QSN1NZ0S1TV7&pd_rd_wg=UgjSe&pd_rd_r=5eccbc69-e3f1-4fa1-b454-a44410809f6b&pd_rd_i=B0CFVYNPY6&th=1?tag=lootmuseum-21"
   },
   {
     title: "Ohrenschmalz Entferner Otoskop",
-    price: 9.98,
+    price: 15.43,
     listPrice: 24.99,
     image: "https://m.media-amazon.com/images/I/71RIeKPS3eL._AC_SL1500_.jpg",
     url: "https://www.amazon.de/Ohrenschmalz-Qimic-Ohrreiniger-Ohrenspiegel-Android-Smartphones/dp/B0DQ56WW1C?tag=lootmuseum-21"
